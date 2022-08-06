@@ -2,8 +2,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-jerrycauser@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jerrycauser@gmail.com)](mailto:jerrycauser@gmail.com) [![Github Badge](https://img.shields.io/badge/-JerryCauser-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JerryCauser/)](https://www.github.com/JerryCauser/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=abzanov.com/)](abzanov.com/) <p align='left'>
 Hello, I am a software engineer, doing everything that seems fun or/and useful.
   
-Also, I'm a rationalist. I like math, sci-pop, learning new stuff and comfort.
-  Planing to become CS PhD in the next 10 years. </p><p align='left'> You can view my resume <a href='https://abzanov.com/en/resume ' target=_blank><u>here</u>.</a></p>
+Plus I'm a rationalist. I like math, sci-pop, learning new stuff and comfort.
+  Planing to become CS PhD in the next 10 years. </p><p align='left'> You can see my CV <a href='https://abzanov.com/en/resume ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=JerryCauser alt=JerryCauser /> </p>
 
