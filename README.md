@@ -7,7 +7,7 @@ Plus I'm a rationalist. I like math, sci-pop, learning new stuff and comfort.
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=JerryCauser alt=JerryCauser /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=JerryCauser&theme=dracula&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&count_private=true&disable_animations=true&line_height=25&text_bold=true&hide=contribs)](https://github.com/JerryCauser/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=JerryCauser&theme=dracula&show_icons=true&hide_rank=true&hide_title=true&count_private=true&disable_animations=true&line_height=25&text_bold=true&hide=contribs)](https://github.com/JerryCauser/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryCauser&theme=dracula&layout=compact&disable_animations=true)](https://github.com/JerryCauser/github-readme-stats)
 
 
