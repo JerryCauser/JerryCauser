@@ -3,7 +3,7 @@
 Hello, I am a software engineer, doing everything that seems fun or/and useful.
   
 Plus I'm a rationalist. I like math, sci-pop, learning new stuff and comfort.
-  Planing to become CS PhD in the next 10 years. </p><p align='left'> You can see my CV <a href='https://abzanov.com/en/resume ' target=_blank><u>here</u>.</a></p>
+  Planing to become CS PhD in the next 10 years. </p><p align='left'> You can see my CV <a href='https://abzanov.com/en ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=JerryCauser alt=JerryCauser /> </p>
 
